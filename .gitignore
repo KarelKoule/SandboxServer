@@ -1,0 +1,29 @@
+
+bin
+build
+
+out
+
+.attach*
+
+*.class
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
+#Eclipse files
+**/.project
+**/.classpath
+**/.settings/
+
+**/.tern-project
+
+#IntelliJ files
+**/*.iml
+**/.idea
+**/.gradle
+.idea/*
